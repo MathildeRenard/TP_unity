@@ -35,7 +35,7 @@ public class RotateOnOffKey : MonoBehaviour
         }
         else
         {
-            print("Mouvement arrêté.");
+         
         }
     }
 }
